@@ -20,11 +20,17 @@ Yard Bot will test the concept of a crowd-sourced collection fleet by recruiting
 
 Few people view picking up dry leaves as a glamorous job, but one Chicago citizen who has already signed up for the program spoke highly of the opportunity. “I think it’s a solid gig. The job is easy enough and I’m gonna make as much money as I would working at McDonald's,” said Bronzeville resident Alan Cramb.
 
+> _“I think it’s a solid gig. The job is easy enough and I’m gonna make as much money as I would working at McDonald's.”_
+> <br>-- **Alan Cramb**, Resident, Bronzeville
+
 Drivers on the Yard Bot team can also rent a wagon from the city to increase the number of pickups they can make, helping save on gas and hours.
 
 ## Enviromental and Economic Development
 
 Mahmoud Kahack, director of strategic partnerships for the Roback Foundation, billed Yard Bot as “an environmental and economic development program that will add new seasonal jobs to low-income areas of the city.”
+
+> _“[Yard Bot] is an environmental and economic development program that will add new seasonal jobs to low-income areas of the city.”_
+> <br>-- **Mahmoud Kahack**, Director of Strategic Partnerships, Yard Bot
 
 In December 2017, the Roback Foundation funded Yard Bot up to $250,000 for the initial pilot. The pilot will only recruit 50 drivers, but the city expects it to grow. As part of Mayor Emanuel’s efforts towards part-time and seasonal job creation, the Mayor’s Office announced an additional $100,000 contribution to Yard Bot in April 2018.
 
@@ -32,4 +38,11 @@ Yard Bot has worked to make driver signup accessible to their target demographic
 
 ## Messenger Bot
 
-In tandem with the fleet of drivers, Yard Bot is also developing a public-facing Facebook messenger chat bot that allows citizens to “request a yard waste pickup in 20 seconds, rather than five minutes by phone or website,” according to the program’s technology director, Haosheng Li. “Requests from both the Messenger bot and the city’s existing 311 infrastructure will go into the Yard Bot platform to generate efficient pickup routes, making it easier for the city to adopt and for drivers to meet their quotas,” explains Li. The Messenger bot will launch publicly for all citizens to use in early August.
+In tandem with the fleet of drivers, Yard Bot is also developing a public-facing Facebook messenger chat bot that allows citizens to “request a yard waste pickup in 20 seconds, rather than five minutes by phone or website,” according to the program’s technology director, Haosheng Li.
+
+“Requests from both the Messenger bot and the city’s existing 311 infrastructure will go into the Yard Bot platform to generate efficient pickup routes, making it easier for the city to adopt and for drivers to meet their quotas,” explains Li.
+
+The Messenger bot will launch publicly for all citizens to use in early August.
+
+> _“[Citizens of Chicago] will be able to request a yard waste pickup in 20 seconds, rather than five minutes by phone or website.”_
+> <br>-- **Haosheng Li**, Director of Technology, Yard Bot
