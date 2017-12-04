@@ -22,3 +22,8 @@ Yard Bot is run with a combination of charitable grands and government funding. 
 * [Press Release](pressrelease)
 * [New Yard Waste Pick Up Instructions](instructions)
 * <a href="https://fb.me/yardbot" title="Yard Bot Facebook Page">Yard Bot Facebook Page</a>
+* Research
+
+{% raw %}
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSgyocsv7BltJkK8h5QUJyK75ra4aOFm4dnthwxZ22Rj1eneEis10b_hjXaQMWLZMmMnxOSDXI6A9el/pubchart?oid=295511303&amp;format=interactive"></iframe>
+{% endraw %}
