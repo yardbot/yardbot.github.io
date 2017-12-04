@@ -1,4 +1,4 @@
-**CHICAGO | URBAN TECH**
+**FOR IMMEDIATE RELEASE**
 
 # City of Chicago to launch Yard Bot for streamlined yard waste pickup
 
