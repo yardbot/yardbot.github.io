@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# About
 
-You can use the [editor on GitHub](https://github.com/yardbot/yardbot.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Improper disposal of yard waste, such as dry leaves and grass clippings, poses an environmental threat. These contents often end up in landfills, producing harmful methane gas as they decompose.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To properly dispose of yard waste from Chicago households, Yard Bot will test the concept of a crowd-sourced collection fleet by recruiting 50 drivers in Fall 2018.
 
-### Markdown
+The Yard Bot Facebook Messenger service will also allow citizens to request a yard waste pickup in 20 seconds, rather than five minutes by phone or website
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Frequently Asked Questions
 
-```markdown
-Syntax highlighted code block
+## How will Yard Bot solve the city's yard waste problems?
+Read [the full Yard Bot proposal](proposal) on our website.
 
-# Header 1
-## Header 2
-### Header 3
+## How should I leave my yard waste for pickup?
+New instructions for yard waste pickup can be found [on this webpage!](instructions)
 
-- Bulleted
-- List
+## Who pays for Yard Bot?
+Yard Bot is run with a combination of charitable grands and government funding. [Read the (fictional) press release](pressrelease) to learn more.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yardbot/yardbot.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Learn More
+* [Project Proposal](proposal)
+* [Press Release](pressrelease)
+* [New Yard Waste Pick Up Instructions](instructions)
+* [Yard Bot Facebook Page](https:/fb.me/yardbot)
