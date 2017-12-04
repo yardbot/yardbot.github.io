@@ -10,13 +10,13 @@
 “Yard Waste” may include the following:
  
 ### Dried Leaves
-![Picture of Dried Leaves](files/leaves.png)
+![Picture of Dried Leaves](../files/leaves.png)
 
 ### Grass Clippings
-![Picture of Grass Clippings](files/grass.png)
+![Picture of Grass Clippings](../files/grass.png)
 
 ### Fallen Dranches
-![Picture of Fallen Branches](files/branches.png)
+![Picture of Fallen Branches](../files/branches.png)
 
 ## Other Home Disposal Methods
 
